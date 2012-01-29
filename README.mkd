@@ -12,7 +12,7 @@ You can find icons for action bar in [Holo theme](http://developer.android.com/d
 
   * No ActionBar.
   * All actions are shown when press menu button.
-  * Actin #1 is shown with the icon.
+  * Action #1 is shown with the icon.
 
 ## Nexus S (4.0.3)
 
