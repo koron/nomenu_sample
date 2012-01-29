@@ -1,0 +1,3 @@
+This is etude for actions in ActionBar for Android 4.0.
+
+See detail for [a blog entry](http://android-developers.blogspot.com/2012/01/say-goodbye-to-menu-button.html).
