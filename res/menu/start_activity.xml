@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  >
+
+  <item
+    android:id="@+id/action_01"
+    android:title="Action #01"
+    android:showAsAction="ifRoom"
+    />
+
+  <item
+    android:id="@+id/action_02"
+    android:title="Action #02"
+    android:showAsAction="ifRoom"
+    />
+
+  <item
+    android:id="@+id/action_03"
+    android:title="Action #03"
+    android:showAsAction="ifRoom"
+    />
+
+</menu>
