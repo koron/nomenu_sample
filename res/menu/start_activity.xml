@@ -6,19 +6,28 @@
   <item
     android:id="@+id/action_01"
     android:title="Action #01"
+    android:icon="@drawable/ic_action_refresh"
     android:showAsAction="ifRoom"
     />
 
   <item
     android:id="@+id/action_02"
     android:title="Action #02"
-    android:showAsAction="ifRoom"
     />
 
   <item
     android:id="@+id/action_03"
     android:title="Action #03"
-    android:showAsAction="ifRoom"
+    />
+
+  <item
+    android:id="@+id/action_04"
+    android:title="Action #04"
+    />
+
+  <item
+    android:id="@+id/action_05"
+    android:title="Action #05"
     />
 
 </menu>

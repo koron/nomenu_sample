@@ -1,3 +1,27 @@
+# Introduction
+
 This is etude for action overflow for Android 4.0.
 
 See detail for [a blog entry](http://android-developers.blogspot.com/2012/01/say-goodbye-to-menu-button.html).
+
+You can find icons for action bar in [Holo theme](http://developer.android.com/design/static/download/action_bar_icons-v4.0.zip).
+
+# Results
+
+## Nexus One (2.3.6)
+
+  * No ActionBar.
+  * All actions are shown when press menu button.
+  * Actin #1 is shown with the icon.
+
+## Nexus S (4.0.3)
+
+  * Action #1 is shown as the icon in ActionBar.
+  * No overflow is shown in ActionBar.
+  * All other actions are shown when press menu button.
+
+## Galaxy Nexus (4.0.1)
+
+  * Action #1 is shown as the icon in ActionBar.
+  * Overflow is shown in ActionBar.
+  * All other actions are shown in overflow in ActionBar.
